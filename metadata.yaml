@@ -1,0 +1,39 @@
+_repo: The-poisoned-chocolates-case_75476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berkeley, Anthony
+    aliases:
+    - Cox, Anthony Berkeley
+    - Cox, A. B. (Anthony Berkeley)
+    - Iles, Francis
+    - Platts, A. Monmouth
+    birthdate: 1893
+    deathdate: 1971
+    gutenberg_agent_id: '55972'
+    url: http://www.gutenberg.org/2009/agents/55972
+    wikipedia: https://en.wikipedia.org/wiki/Anthony_Berkeley_Cox
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75476'
+language: en
+pgterms:marc904: https://archive.org/details/poisonedchocolat0000berk
+pgterms:marc905: 20250129111820berkeley
+pgterms:marc906: '1929'
+pgterms:marc907: GB
+production_note: Brian Raiter
+publication_note: '  $aLondon :$bThe British Library, $c1929, reprint 2016.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Sheringham, Roger (Fictitious character) -- Fiction'
+- !lcsh 'Police -- England -- London -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The poisoned chocolates case
+url: http://www.gutenberg.org/ebooks/75476
