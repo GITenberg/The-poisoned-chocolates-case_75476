@@ -1,5 +1,8 @@
 _repo: The-poisoned-chocolates-case_75476
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75476-h/images/cover.jpg
 creator:
   author:
     agent_name: Berkeley, Anthony
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55972
     wikipedia: https://en.wikipedia.org/wiki/Anthony_Berkeley_Cox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75476#The-poisoned-chocolates-case
 gutenberg_issued: '2025-02-27'
 gutenberg_type: Text
 identifiers:
